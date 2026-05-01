@@ -8,7 +8,7 @@
   "server": {
     "ip": "drifting.aternos.me",
     "port": 40909,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
